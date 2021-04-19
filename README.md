@@ -8,7 +8,7 @@ In this analysis we have used a ride-sharing database to create a summary datafr
 
 ## Results:
 
-From the graph above you can see that when we tabulate the total fares by city type urban city types are the most profitable followed by the suburban and rural markets in that order. Not shown in this graph is other information we pulled from the data such as total rides, total drivers, total fares, average fare per ride and driver. These give us clearer insights to other phenomena at play, such as the fact that even though rural rides account for the lowest profits and frequency of rides they also represent the most expensive fares. This is easily explained as driving longer distances will accrue higher fares and could act as a deterrent to using more frequently. 
+From the graph above you can see that when we tabulated the total fares by city type. **Urban city types are the most profitable** followed by the suburban and rural markets in that order. Not shown in this graph is other information we pulled from the data such as total rides, total drivers, total fares, average fare per ride and driver. These give us clearer insights to other phenomena at play, such as the fact that even though rural rides account for the lowest profits and frequency of rides they also represent the most expensive fares. This is easily explained as driving longer distances will accrue higher fares and could act as a deterrent to using more frequently. 
 
 ![Deliverable 1 Table](https://user-images.githubusercontent.com/80495032/115172543-7ea03f80-a093-11eb-86f2-16dce7d9c29a.png)
 
